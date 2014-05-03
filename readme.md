@@ -20,4 +20,4 @@ Usage
 Adoption to your needs
 ----------------------
 
-Analyse SiteController.php and Event.php source
+Read comments in Event.php and SiteController.php
