@@ -3,7 +3,7 @@ Subscription example plugin
 
 This plugin require:
 
-1. ImpressPages feature-subscriptions branch
+1. ImpressPages 4.0.13 or later
 2. User plugin https://github.com/impresspages-plugins/User
 3. PayPalSubscription payment method plugin https://github.com/impresspages-plugins/PayPalSubscription
 
